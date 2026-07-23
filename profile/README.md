@@ -9,6 +9,8 @@ culture to life.
 - 🎮 **Sinstruck** — our co-op horror game.
 - 🏛️ **Immersive & heritage tech** — installations and experiences that
   reimagine how people engage with places, collections, and stories.
+- 🌐 **Digital products & the Heuro Portal** — websites and web apps for
+  clients, backed by our own content platform.
 
 ### Find us
 
